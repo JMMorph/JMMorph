@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm J. Miguel Medina</h1>
-<h3 align="center">MCs in Computer Science and aspiring Data Scientist</h3>
+<h3 align="center">MCs in Computer Science and Geospatial Data Scientist</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jmmorph" alt="jmmorph" /></a> </p>
 
